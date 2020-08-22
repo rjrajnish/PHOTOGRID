@@ -1,0 +1,14 @@
+
+
+
+
+
+
+{
+	"host":"http://localhost:3000",
+	"S3AccessKey":"AKIAIZM4MZSTC44LVU7Q",
+	"S3Secret": "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",
+	"S3Bucket" : "photogrid",
+	"dbURL":"mongodb+srv://photogrid:Rajnish@cluster0.13xqi.mongodb.net/photogrid?retryWrites=true&w=majority"
+	
+}
