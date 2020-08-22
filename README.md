@@ -1,2 +1,2 @@
-# chatcat
-chatcat project is nodejs based with express framework.
+# photogrid
+photogrid project is nodejs based with express framework.
